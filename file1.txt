@@ -1,4 +1,4 @@
-first push1 testing pull
+on fait le first push1 testing pull
 second pull for test conflict
-third commit1 and update file1
+on fait le commit1 and update file1
 Ajout de 4 ligne
